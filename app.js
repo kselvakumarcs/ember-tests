@@ -1,1 +1,1 @@
-alert('app.js')
+alert('app.js');
